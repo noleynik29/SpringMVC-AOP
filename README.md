@@ -2,7 +2,7 @@
 
 Java Spring App using: spring web mvc, javax servlet, mysql connector java, c3p0, spring orm, hibernate core and aspectj.
 
-his is a project of my spring mvc study, using spring 5.3.19
+This is a project of my spring mvc study, using spring 5.3.19
 
 To run this project better use the newest version of IntelliJ IDEA, JDK 1.8_x, Tomcat 9.0.x and newest version of MySQL Workbench.
 
